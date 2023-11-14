@@ -5,4 +5,4 @@ The models are evaluated using cross-validation to ensure robust performance acr
 
 This project used the "ClassifyReviews_NLP/Restaurant_Reviews.tsv" sourced from Github. The dataset contains a collection of reviews labeled as positive and negative for training and testing the classifier.
 
-Link: https://www.kaggle.com/datasets/bhaskarreddy072/mail-datacsv
+Link: https://github.com/PritiG1/ClassifyReviews_NLP/blob/main/Restaurant_Reviews.tsv
